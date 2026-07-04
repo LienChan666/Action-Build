@@ -75,7 +75,7 @@ on:
         type: choice
         description: "SUSFS模块下载调用方向//SUSFS module branch"
         required: true
-        default: Release
+        default: N/A
         options:
           - CI
           - Release
